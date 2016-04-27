@@ -24,3 +24,5 @@ public class Rolls {
 	}
 	}
 
+
+// You need a method to generate a Radom number in this class, Caesar.  And please update the default constructor.
